@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: Jan 4, 2021 
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Picked next project, started creating the Data file the app will use. 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** I really struggled with publishing my first project. I found several people were having the same issue with github pages and SPAs. Ended up messing up my og files. Putting learn all about GitHub on my todo list, and will try to publish my project again. VS code is having issues with my git extension to many changes, I dont want to add a new repository and these files untill I get the VS code issue resloved. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** Tea app https://twitter.com/PVg653/status/1346325453011890181?s=20
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 2: Jan 5, 2021
+
+
+**Today's Progress**: Finished adding the main tea options into data file.
+
+**Thoughts**: need to come up with how to add the one off items. 
+
+**Link(s) to work**: Tea app https://twitter.com/PVg653/status/1346677016549011458?s=20
+
+
