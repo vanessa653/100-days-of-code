@@ -19,3 +19,11 @@
 **Link(s) to work**: Tea app https://twitter.com/PVg653/status/1346677016549011458?s=20
 
 
+### Day 3: Jan 6, 2021
+
+
+**Today's Progress**: Finished the data file, deconstructed one of the objects and got them to display the name.
+
+**Thoughts**: struggled with creating a key properly, need to read up on it more still getting the warning. get the randandom name display function to work.
+
+**Link(s) to work**: Tea app https://twitter.com/PVg653/status/1347058071240118280?s=20
