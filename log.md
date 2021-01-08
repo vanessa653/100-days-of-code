@@ -27,3 +27,13 @@
 **Thoughts**: struggled with creating a key properly, need to read up on it more still getting the warning. get the randandom name display function to work.
 
 **Link(s) to work**: Tea app https://twitter.com/PVg653/status/1347058071240118280?s=20
+
+
+### Day 4: Jan 7, 2021
+
+
+**Today's Progress**: Decided on using a dialog to disply the randomn tea selected. dialog code done.
+
+**Thoughts**: struggled with getting the random function to work, ended up in a loop or not working at all. 
+
+**Link(s) to work**: Tea app https://twitter.com/PVg653/status/1347429718673547264?s=20, pokedex app: https://vpokedex.herokuapp.com/
