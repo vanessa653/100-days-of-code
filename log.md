@@ -37,3 +37,12 @@
 **Thoughts**: struggled with getting the random function to work, ended up in a loop or not working at all. 
 
 **Link(s) to work**: Tea app https://twitter.com/PVg653/status/1347429718673547264?s=20, pokedex app: https://vpokedex.herokuapp.com/
+
+
+
+### Day 5: Jan 8, 2021
+
+**Today's Progress**: Started freecodecamp. Excited!!
+
+links to work:
+https://twitter.com/PVg653/status/1347775212373368833?s=20
